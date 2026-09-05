@@ -1,0 +1,122 @@
+{
+  "site_name": "Georgia Insider",
+  "contact": {
+    "phone": "+995 591 700 505",
+    "wa": "995591700505",
+    "tg": "@GeorgiaInsider",
+    "tg_url": "GeorgiaInsider",
+    "email": "gvasaliaz@gmail.com"
+  },
+  "hero": {
+    "eyebrow_en": "Tbilisi, Georgia · Relocation Concierge",
+    "eyebrow_ru": "Тбилиси, Грузия · Релокационный консьерж",
+    "h1_en": "Move to Georgia<br>with someone who<br><em>actually lives here.</em>",
+    "h1_ru": "Переезд в Грузию<br>с тем, кто здесь<br><em>живёт и работает.</em>",
+    "sub_en": "We help entrepreneurs and expats get settled fast — banking, taxes, property, business registration. No guesswork. Licensed lawyer on the team.",
+    "sub_ru": "Помогаем предпринимателям и экспатам быстро обустроиться — банки, налоги, недвижимость, регистрация бизнеса. Без лишних ошибок. Лицензированный юрист в команде."
+  },
+  "about": {
+    "zura_name": "Zura Gvasalia",
+    "zura_role_en": "Business Development & Operations",
+    "zura_role_ru": "Бизнес и операции",
+    "zura_title_en": "Business Development & Commercial Operations · Geo Meat",
+    "zura_title_ru": "Развитие бизнеса и коммерческие операции · Geo Meat",
+    "zura_bio_en": "Born and raised in Tbilisi. 20+ years across B2B trade (built an import channel from zero to $850K/year), international client management, and growth marketing. Navigated Georgian state institutions, banks, and B2B negotiations hands-on. Georgian, English, and Russian at professional level.",
+    "zura_bio_ru": "Родился и вырос в Тбилиси. 20+ лет в B2B-торговле (построил импортный канал с нуля до $850K в год), управлении международными клиентами и маркетинге. Лично прошёл через грузинские госструктуры, банки и деловые переговоры. Грузинский, английский и русский на профессиональном уровне.",
+    "lawyer_name": "Nino Torchinava",
+    "lawyer_role_en": "Senior Legal Counsel",
+    "lawyer_role_ru": "Старший юрисконсульт",
+    "lawyer_title_en": "Georgian Bar Association · 10+ Years Corporate Law & Investor Advisory",
+    "lawyer_title_ru": "Ассоциация адвокатов Грузии · 10+ лет корпоративного права",
+    "lawyer_bio_en": "Senior lawyer with 10+ years in Georgian corporate law, regulatory compliance, and investor advisory. Currently Senior Legal Counsel at Poti Free Industrial Zone LLC — advising international investors, overseeing company registration, drafting commercial contracts, and representing clients before Georgian state institutions. Previously Chief Specialist at the National Agency of State Property. Certified by the Georgian Bar Association in Private Law. Georgian native · English C1 · Russian C2.",
+    "lawyer_bio_ru": "Старший юрист с 10+ летним опытом в грузинском корпоративном праве, compliance и консультировании инвесторов. Старший юрисконсульт в Свободной промышленной зоне Поти — консультирует иностранных инвесторов, сопровождает регистрацию компаний, составляет коммерческие договоры, представляет клиентов в государственных структурах. Ранее — главный специалист Национального агентства государственного имущества. Сертифицирована Ассоциацией адвокатов Грузии по частному праву. Грузинский — родной · английский C1 · русский C2."
+  },
+  "services": [
+    {
+      "icon": "🗺️",
+      "name_en": "Orientation Call",
+      "name_ru": "Консультация",
+      "price_en": "$120",
+      "price_ru": "$120",
+      "badge_en": "",
+      "badge_ru": "",
+      "desc_en": "90 minutes. We cover your specific situation — banking, taxes, neighborhood, visa, business setup. You leave with a clear action plan.",
+      "desc_ru": "90 минут. Разбираем вашу конкретную ситуацию — банки, налоги, выбор района, виза, бизнес. Уходите с чётким планом.",
+      "btn_en": "Book a Call",
+      "btn_ru": "Записаться",
+      "featured": false,
+      "inc_en": ["90-min video or in-person session", "Georgian banking reality (TBC & BoG)", "Tax & IE status explained clearly", "Neighborhood guide for your lifestyle", "Written summary sent after the call"],
+      "inc_ru": ["90 мин. онлайн или лично", "Реальная картина по банкам (TBC & BoG)", "Налоги и статус ИП — без воды", "Выбор района под ваш образ жизни", "Письменное резюме после встречи"]
+    },
+    {
+      "icon": "🛬",
+      "name_en": "Soft Landing",
+      "name_ru": "Мягкая посадка",
+      "price_en": "$350",
+      "price_ru": "$350",
+      "badge_en": "Most Popular",
+      "badge_ru": "Популярный выбор",
+      "desc_en": "We meet you in person and handle the first week — bank account, apartment negotiation, tax registration, and introductions to our trusted professional network.",
+      "desc_ru": "Встречаем лично и проходим первую неделю вместе — банк, аренда, налоговая регистрация и знакомство с проверенными специалистами.",
+      "btn_en": "Get Started",
+      "btn_ru": "Начать",
+      "featured": true,
+      "inc_en": ["Everything in Orientation Call", "Bank account opening — in person with you", "Apartment lease negotiation & review", "IE / tax registration walkthrough", "Introduction to our accountant & lawyer"],
+      "inc_ru": ["Всё из пакета «Консультация»", "Открытие счёта — лично с вами", "Переговоры по аренде и проверка договора", "Регистрация ИП и налоговый номер", "Знакомство с бухгалтером и юристом"]
+    },
+    {
+      "icon": "⚖️",
+      "name_en": "Legal & Business",
+      "name_ru": "Юридические услуги",
+      "price_en": "Custom quote",
+      "price_ru": "По запросу",
+      "badge_en": "",
+      "badge_ru": "",
+      "desc_en": "Our in-house licensed Georgian lawyer handles company formation, land plots, real estate transactions, and business contracts.",
+      "desc_ru": "Лицензированный грузинский юрист в нашей команде занимается регистрацией компаний, земельными участками, сделками с недвижимостью и договорами.",
+      "btn_en": "Ask a Question",
+      "btn_ru": "Задать вопрос",
+      "featured": false,
+      "inc_en": ["LLC / company registration", "Land plot transactions & due diligence", "Real estate purchase & sale contracts", "Business contracts & agreements", "Residence permit applications"],
+      "inc_ru": ["Регистрация ООО и компаний", "Сделки с землёй и due diligence", "Договоры купли-продажи недвижимости", "Бизнес-договоры и соглашения", "Оформление ВНЖ"]
+    }
+  ],
+  "faq": [
+    {
+      "q_en": "Can a foreigner open a bank account in Georgia?",
+      "q_ru": "Может ли иностранец открыть счёт в Грузии?",
+      "a_en": "Yes — both TBC Bank and Bank of Georgia open accounts for non-residents in person with just a passport. There is occasional friction, especially for US passport holders due to FATCA. We have been through this process many times and know exactly what to prepare.",
+      "a_ru": "Да — и TBC Bank, и Bank of Georgia открывают счета нерезидентам лично, только по паспорту. Иногда бывают сложности, особенно для граждан США из-за FATCA. Мы прошли этот процесс много раз и знаем точно, что подготовить."
+    },
+    {
+      "q_en": "Is the 1% tax rate real?",
+      "q_ru": "Реальна ли ставка налога 1%?",
+      "a_en": "Yes — Georgia's Individual Entrepreneur status with Small Business designation taxes you 1% of gross turnover up to ~500,000 GEL per year (~$185K). It is Georgian law, not a loophole. Not all income types qualify — we set you up correctly from the start.",
+      "a_ru": "Да — статус ИП с режимом Малого бизнеса облагается 1% с оборота до ~500 000 лари в год (~$185K). Это грузинский закон, не лазейка. Не все виды дохода подходят — настраиваем всё правильно с самого начала."
+    },
+    {
+      "q_en": "How long can I stay in Georgia without a visa?",
+      "q_ru": "Сколько можно находиться в Грузии без визы?",
+      "a_en": "Citizens of 95+ countries can stay visa-free for 1 year, including Russia, Ukraine, most EU countries, UK, US, and Canada. After one year you need a residence permit. Our legal partner handles permit applications end to end.",
+      "a_ru": "Граждане 95+ стран могут находиться без визы 1 год — Россия, Украина, большинство стран ЕС, Великобритания, США, Канада. После года нужен ВНЖ. Наш юрист оформляет его от начала до конца."
+    },
+    {
+      "q_en": "Can foreigners buy property or land in Georgia?",
+      "q_ru": "Могут ли иностранцы купить недвижимость или землю?",
+      "a_en": "Foreigners can buy residential and commercial property freely. Agricultural land has restrictions — non-citizens generally cannot purchase it directly. Our lawyer handles all property and land transactions from start to finish.",
+      "a_ru": "Иностранцы могут свободно покупать жилую и коммерческую недвижимость. На сельскохозяйственные земли есть ограничения. Наш юрист ведёт все сделки с недвижимостью и землёй."
+    },
+    {
+      "q_en": "How quickly can I register a company?",
+      "q_ru": "Как быстро можно зарегистрировать компанию?",
+      "a_en": "An LLC can be registered in 1-2 business days at the House of Justice. Individual Entrepreneur status is often same-day. We handle all preparation, filing, and follow-up.",
+      "a_ru": "ООО регистрируется за 1-2 рабочих дня в Доме юстиции. Статус ИП — нередко в день обращения. Мы берём на себя всё — подготовку, подачу и сопровождение."
+    },
+    {
+      "q_en": "Do you work with people who have not arrived yet?",
+      "q_ru": "Работаете с теми, кто ещё не приехал?",
+      "a_en": "Yes. The Orientation Call is done by video and is the ideal first step before you land. We can start apartment search and document preparation before your arrival.",
+      "a_ru": "Да. Консультация проводится по видеосвязи — идеальный первый шаг до прилёта. Можем начать подбор квартиры и подготовку документов заранее."
+    }
+  ]
+}
