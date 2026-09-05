@@ -1,7 +1,7 @@
 {
   "site_name": "Georgia Insider",
   "contact": {
-    "phone": "+995 591 700 505",
+    "phone": "+995 577 99 43 43",
     "wa": "995591700505",
     "tg": "@GeorgiaInsider",
     "tg_url": "GeorgiaInsider",
@@ -17,68 +17,104 @@
   },
   "about": {
     "zura_name": "Zura Gvasalia",
-    "zura_role_en": "Business Development & Operations",
-    "zura_role_ru": "Бизнес и операции",
-    "zura_title_en": "Business Development & Commercial Operations · Geo Meat",
-    "zura_title_ru": "Развитие бизнеса и коммерческие операции · Geo Meat",
-    "zura_bio_en": "Born and raised in Tbilisi. 20+ years across B2B trade (built an import channel from zero to $850K/year), international client management, and growth marketing. Navigated Georgian state institutions, banks, and B2B negotiations hands-on. Georgian, English, and Russian at professional level.",
-    "zura_bio_ru": "Родился и вырос в Тбилиси. 20+ лет в B2B-торговле (построил импортный канал с нуля до $850K в год), управлении международными клиентами и маркетинге. Лично прошёл через грузинские госструктуры, банки и деловые переговоры. Грузинский, английский и русский на профессиональном уровне.",
-    "lawyer_name": "Nino Torchinava",
-    "lawyer_role_en": "Senior Legal Counsel",
-    "lawyer_role_ru": "Старший юрисконсульт",
-    "lawyer_title_en": "Georgian Bar Association · 10+ Years Corporate Law & Investor Advisory",
     "lawyer_title_ru": "Ассоциация адвокатов Грузии · 10+ лет корпоративного права",
+    "zura_title_en": "Business Development & Commercial Operations · Geo Meat",
+    "lawyer_name": "Nino Torchinava",
+    "lawyer_title_en": "Georgian Bar Association · 10+ Years Corporate Law & Investor Advisory",
+    "zura_bio_ru": "Родился и вырос в Тбилиси. 20+ лет в B2B-торговле (построил импортный канал с нуля до $850K в год), управлении международными клиентами и маркетинге. Лично прошёл через грузинские госструктуры, банки и деловые переговоры. Грузинский, английский и русский на профессиональном уровне.",
+    "lawyer_role_ru": "Старший юрисконсульт",
+    "zura_bio_en": "Born and raised in Tbilisi. 20+ years across B2B trade (built an import channel from zero to $850K/year), international client management, and growth marketing. Navigated Georgian state institutions, banks, and B2B negotiations hands-on. Georgian, English, and Russian at professional level.",
+    "lawyer_bio_ru": "Старший юрист с 10+ летним опытом в грузинском корпоративном праве, compliance и консультировании инвесторов. Старший юрисконсульт в Свободной промышленной зоне Поти — консультирует иностранных инвесторов, сопровождает регистрацию компаний, составляет коммерческие договоры, представляет клиентов в государственных структурах. Ранее — главный специалист Национального агентства государственного имущества. Сертифицирована Ассоциацией адвокатов Грузии по частному праву. Грузинский — родной · английский C1 · русский C2.",
+    "lawyer_role_en": "Senior Legal Counsel",
+    "zura_role_ru": "Бизнес и операции",
     "lawyer_bio_en": "Senior lawyer with 10+ years in Georgian corporate law, regulatory compliance, and investor advisory. Currently Senior Legal Counsel at Poti Free Industrial Zone LLC — advising international investors, overseeing company registration, drafting commercial contracts, and representing clients before Georgian state institutions. Previously Chief Specialist at the National Agency of State Property. Certified by the Georgian Bar Association in Private Law. Georgian native · English C1 · Russian C2.",
-    "lawyer_bio_ru": "Старший юрист с 10+ летним опытом в грузинском корпоративном праве, compliance и консультировании инвесторов. Старший юрисконсульт в Свободной промышленной зоне Поти — консультирует иностранных инвесторов, сопровождает регистрацию компаний, составляет коммерческие договоры, представляет клиентов в государственных структурах. Ранее — главный специалист Национального агентства государственного имущества. Сертифицирована Ассоциацией адвокатов Грузии по частному праву. Грузинский — родной · английский C1 · русский C2."
+    "zura_role_en": "Business Development & Operations",
+    "zura_title_ru": "Развитие бизнеса и коммерческие операции · Geo Meat"
   },
   "services": [
     {
-      "icon": "🗺️",
-      "name_en": "Orientation Call",
-      "name_ru": "Консультация",
-      "price_en": "$120",
-      "price_ru": "$120",
+      "inc_ru": [
+        "90 мин. онлайн или лично",
+        "Реальная картина по банкам (TBC & BoG)",
+        "Налоги и статус ИП — без воды",
+        "Выбор района под ваш образ жизни",
+        "Письменное резюме после встречи"
+      ],
       "badge_en": "",
-      "badge_ru": "",
-      "desc_en": "90 minutes. We cover your specific situation — banking, taxes, neighborhood, visa, business setup. You leave with a clear action plan.",
-      "desc_ru": "90 минут. Разбираем вашу конкретную ситуацию — банки, налоги, выбор района, виза, бизнес. Уходите с чётким планом.",
-      "btn_en": "Book a Call",
       "btn_ru": "Записаться",
+      "inc_en": [
+        "90-min video or in-person session",
+        "Georgian banking reality (TBC & BoG)",
+        "Tax & IE status explained clearly",
+        "Neighborhood guide for your lifestyle",
+        "Written summary sent after the call"
+      ],
+      "btn_en": "Book a Call",
       "featured": false,
-      "inc_en": ["90-min video or in-person session", "Georgian banking reality (TBC & BoG)", "Tax & IE status explained clearly", "Neighborhood guide for your lifestyle", "Written summary sent after the call"],
-      "inc_ru": ["90 мин. онлайн или лично", "Реальная картина по банкам (TBC & BoG)", "Налоги и статус ИП — без воды", "Выбор района под ваш образ жизни", "Письменное резюме после встречи"]
-    },
-    {
-      "icon": "🛬",
-      "name_en": "Soft Landing",
-      "name_ru": "Мягкая посадка",
-      "price_en": "$350",
-      "price_ru": "$350",
-      "badge_en": "Most Popular",
-      "badge_ru": "Популярный выбор",
-      "desc_en": "We meet you in person and handle the first week — bank account, apartment negotiation, tax registration, and introductions to our trusted professional network.",
-      "desc_ru": "Встречаем лично и проходим первую неделю вместе — банк, аренда, налоговая регистрация и знакомство с проверенными специалистами.",
-      "btn_en": "Get Started",
-      "btn_ru": "Начать",
-      "featured": true,
-      "inc_en": ["Everything in Orientation Call", "Bank account opening — in person with you", "Apartment lease negotiation & review", "IE / tax registration walkthrough", "Introduction to our accountant & lawyer"],
-      "inc_ru": ["Всё из пакета «Консультация»", "Открытие счёта — лично с вами", "Переговоры по аренде и проверка договора", "Регистрация ИП и налоговый номер", "Знакомство с бухгалтером и юристом"]
-    },
-    {
-      "icon": "⚖️",
-      "name_en": "Legal & Business",
-      "name_ru": "Юридические услуги",
-      "price_en": "Custom quote",
-      "price_ru": "По запросу",
-      "badge_en": "",
+      "desc_ru": "90 минут. Разбираем вашу конкретную ситуацию — банки, налоги, выбор района, виза, бизнес. Уходите с чётким планом.",
+      "name_ru": "Консультация",
+      "desc_en": "90 minutes. We cover your specific situation — banking, taxes, neighborhood, visa, business setup. You leave with a clear action plan.",
+      "icon": "🗺️",
+      "price_ru": "$120",
+      "name_en": "Orientation Call",
       "badge_ru": "",
-      "desc_en": "Our in-house licensed Georgian lawyer handles company formation, land plots, real estate transactions, and business contracts.",
-      "desc_ru": "Лицензированный грузинский юрист в нашей команде занимается регистрацией компаний, земельными участками, сделками с недвижимостью и договорами.",
-      "btn_en": "Ask a Question",
+      "price_en": "$120"
+    },
+    {
+      "inc_ru": [
+        "Всё из пакета «Консультация»",
+        "Открытие счёта — лично с вами",
+        "Переговоры по аренде и проверка договора",
+        "Регистрация ИП и налоговый номер",
+        "Знакомство с бухгалтером и юристом"
+      ],
+      "badge_en": "Most Popular",
+      "btn_ru": "Начать",
+      "inc_en": [
+        "Everything in Orientation Call",
+        "Bank account opening — in person with you",
+        "Apartment lease negotiation & review",
+        "IE / tax registration walkthrough",
+        "Introduction to our accountant & lawyer"
+      ],
+      "btn_en": "Get Started",
+      "featured": true,
+      "desc_ru": "Встречаем лично и проходим первую неделю вместе — банк, аренда, налоговая регистрация и знакомство с проверенными специалистами.",
+      "name_ru": "Мягкая посадка",
+      "desc_en": "We meet you in person and handle the first week — bank account, apartment negotiation, tax registration, and introductions to our trusted professional network.",
+      "icon": "🛬",
+      "price_ru": "$350",
+      "name_en": "Soft Landing",
+      "badge_ru": "Популярный выбор",
+      "price_en": "$350"
+    },
+    {
+      "inc_ru": [
+        "Регистрация ООО и компаний",
+        "Сделки с землёй и due diligence",
+        "Договоры купли-продажи недвижимости",
+        "Бизнес-договоры и соглашения",
+        "Оформление ВНЖ"
+      ],
+      "badge_en": "",
       "btn_ru": "Задать вопрос",
+      "inc_en": [
+        "LLC / company registration",
+        "Land plot transactions & due diligence",
+        "Real estate purchase & sale contracts",
+        "Business contracts & agreements",
+        "Residence permit applications"
+      ],
+      "btn_en": "Ask a Question",
       "featured": false,
-      "inc_en": ["LLC / company registration", "Land plot transactions & due diligence", "Real estate purchase & sale contracts", "Business contracts & agreements", "Residence permit applications"],
-      "inc_ru": ["Регистрация ООО и компаний", "Сделки с землёй и due diligence", "Договоры купли-продажи недвижимости", "Бизнес-договоры и соглашения", "Оформление ВНЖ"]
+      "desc_ru": "Лицензированный грузинский юрист в нашей команде занимается регистрацией компаний, земельными участками, сделками с недвижимостью и договорами.",
+      "name_ru": "Юридические услуги",
+      "desc_en": "Our in-house licensed Georgian lawyer handles company formation, land plots, real estate transactions, and business contracts.",
+      "icon": "⚖️",
+      "price_ru": "По запросу",
+      "name_en": "Legal & Business",
+      "badge_ru": "",
+      "price_en": "Custom quote"
     }
   ],
   "faq": [
