@@ -1,0 +1,81 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "site"
+    label: "Website Content"
+    files:
+      - name: "main"
+        label: "All Content"
+        file: "content.json"
+        format: "json"
+        fields:
+          - {label: "Business Name", name: "site_name", widget: "string"}
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - {label: "Phone", name: "phone", widget: "string"}
+              - {label: "WhatsApp number (digits only)", name: "wa", widget: "string"}
+              - {label: "Telegram (with @)", name: "tg", widget: "string"}
+              - {label: "Telegram username (no @)", name: "tg_url", widget: "string"}
+              - {label: "Email", name: "email", widget: "string"}
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - {label: "Eyebrow EN", name: "eyebrow_en", widget: "string"}
+              - {label: "Eyebrow RU", name: "eyebrow_ru", widget: "string"}
+              - {label: "Headline EN", name: "h1_en", widget: "text"}
+              - {label: "Headline RU", name: "h1_ru", widget: "text"}
+              - {label: "Subtitle EN", name: "sub_en", widget: "text"}
+              - {label: "Subtitle RU", name: "sub_ru", widget: "text"}
+          - label: "About"
+            name: "about"
+            widget: "object"
+            fields:
+              - {label: "Zura Role EN", name: "zura_role_en", widget: "string"}
+              - {label: "Zura Role RU", name: "zura_role_ru", widget: "string"}
+              - {label: "Zura Title EN", name: "zura_title_en", widget: "string"}
+              - {label: "Zura Title RU", name: "zura_title_ru", widget: "string"}
+              - {label: "Zura Bio EN", name: "zura_bio_en", widget: "text"}
+              - {label: "Zura Bio RU", name: "zura_bio_ru", widget: "text"}
+              - {label: "Nino Name", name: "lawyer_name", widget: "string"}
+              - {label: "Nino Role EN", name: "lawyer_role_en", widget: "string"}
+              - {label: "Nino Role RU", name: "lawyer_role_ru", widget: "string"}
+              - {label: "Nino Title EN", name: "lawyer_title_en", widget: "string"}
+              - {label: "Nino Title RU", name: "lawyer_title_ru", widget: "string"}
+              - {label: "Nino Bio EN", name: "lawyer_bio_en", widget: "text"}
+              - {label: "Nino Bio RU", name: "lawyer_bio_ru", widget: "text"}
+          - label: "Services"
+            name: "services"
+            widget: "list"
+            summary: "{{fields.name_en}}"
+            fields:
+              - {label: "Icon", name: "icon", widget: "string"}
+              - {label: "Name EN", name: "name_en", widget: "string"}
+              - {label: "Name RU", name: "name_ru", widget: "string"}
+              - {label: "Price EN", name: "price_en", widget: "string"}
+              - {label: "Price RU", name: "price_ru", widget: "string"}
+              - {label: "Badge EN", name: "badge_en", widget: "string", required: false}
+              - {label: "Badge RU", name: "badge_ru", widget: "string", required: false}
+              - {label: "Description EN", name: "desc_en", widget: "text"}
+              - {label: "Description RU", name: "desc_ru", widget: "text"}
+              - {label: "Button EN", name: "btn_en", widget: "string"}
+              - {label: "Button RU", name: "btn_ru", widget: "string"}
+              - {label: "Featured", name: "featured", widget: "boolean", default: false}
+              - {label: "Includes EN", name: "inc_en", widget: "list"}
+              - {label: "Includes RU", name: "inc_ru", widget: "list"}
+          - label: "FAQ"
+            name: "faq"
+            widget: "list"
+            summary: "{{fields.q_en}}"
+            fields:
+              - {label: "Question EN", name: "q_en", widget: "string"}
+              - {label: "Question RU", name: "q_ru", widget: "string"}
+              - {label: "Answer EN", name: "a_en", widget: "text"}
+              - {label: "Answer RU", name: "a_ru", widget: "text"}
