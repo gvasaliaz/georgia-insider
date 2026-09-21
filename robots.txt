@@ -7,4 +7,4 @@ Allow: /
 User-agent: Yandex
 Allow: /
 
-Sitemap: https://insidergeorgia.ge/sitemap.xml
+Sitemap: https://georgiainsider.ge/sitemap.xml
