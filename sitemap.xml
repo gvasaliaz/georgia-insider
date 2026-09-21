@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://insidergeorgia.ge/</loc>
+    <loc>https://georgiainsider.ge/</loc>
     <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://insidergeorgia.ge/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://insidergeorgia.ge/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://georgiainsider.ge/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://georgiainsider.ge/"/>
   </url>
 </urlset>
