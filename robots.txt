@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Yandex
-Allow: /
-
-Sitemap: https://georgiainsider.ge/sitemap.xml
+Sitemap: https://www.georgiainsider.ge/sitemap.xml
